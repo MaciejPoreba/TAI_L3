@@ -1,0 +1,11 @@
+body {
+    background-color: lightgrey;
+}
+
+li {
+    display: inline;
+    color: white;
+}
+ul {
+    background-color: black;
+}
